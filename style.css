@@ -136,7 +136,7 @@ h4 {
 }
 .about img:hover {
   /* transform-origin: top right; */
-  transform: scale(1.01);
+  transform: scale(1.08);
 }
 .about-text {
   width: 550px;
